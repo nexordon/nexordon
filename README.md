@@ -2,6 +2,13 @@
 # Hi there, I'm [Egor](https://egorbriliov.github.io/)!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&size=30&pause=1000&color=F7F7F7&background=FF020200&multiline=true&width=1500&height=55&lines=A+beginner+developer+who+wants+to+start+making+money+from+this!)](https://git.io/typing-svg)
 
+## About me
+`Name:` Egor Briliov \
+`Has been born:` March 2004 \
+`Was started learn programming:` 13.05.2024 \
+`The principe of study:` The study itself \
+`Reason to study:` Attraction. Desire for a good life. Good income. Freedom.
+
 ## Learning
 
 #### Badges of websites, where I'm learning programming. There provides my skills of coding.
