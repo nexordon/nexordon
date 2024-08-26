@@ -7,9 +7,10 @@
 #### Badges of websites, where I'm learning programming. 
 #### There provides my skills of coding.
 
-### [LeetCode](https://leetcode.com/)
-![LeetCode Stats](https://leetcode.card.workers.dev/briliov?theme=auto&font=baloo&extension=null)/
-### [CodeWars](https://www.codewars.com/)
-![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large)
 ### [RoadMap](https://roadmap.sh/)
 [![roadmap.sh](https://roadmap.sh/card/tall/669e52f49a21cb3c68b6cb08?variant=dark)](https://roadmap.sh)
+### [CodeWars](https://www.codewars.com/)
+![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large)
+
+### [LeetCode](https://leetcode.com/)
+![LeetCode Stats](https://leetcode.card.workers.dev/briliov?theme=auto&font=baloo&extension=null)/
