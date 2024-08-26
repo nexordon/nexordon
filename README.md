@@ -11,9 +11,11 @@
 ### Additional information
 `✉️  You can contact me at:`  **[Telegram](https://t.me/briliov)**
 # Statistics of my developments
-<a href="http://www.github.com/egorbriliov"><img src="https://github-readme-stats.vercel.app/api?username=egorbriliov&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="egorbriliov's GitHub stats" /></a>\
-<a href="http://www.github.com/egorbriliov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egorbriliov&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>\
-<a href="https://github.com/egorbriliov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorbriliov&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorbriliov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorbriliov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorbriliov&theme=dark&utcOffset=8)
 # Learning
 #### Badges of websites, where I'm learning programming. There provides my skills of coding.
 ### [RoadMap](https://roadmap.sh/)
