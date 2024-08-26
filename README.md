@@ -4,8 +4,7 @@
 
 ## Learning
 
-#### Badges of websites, where I'm learning programming. 
-#### There provides my skills of coding.
+#### Badges of websites, where I'm learning programming. There provides my skills of coding.
 
 ### [RoadMap](https://roadmap.sh/)
 [![roadmap.sh](https://roadmap.sh/card/tall/669e52f49a21cb3c68b6cb08?variant=dark)](https://roadmap.sh)
