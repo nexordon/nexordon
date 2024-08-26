@@ -6,8 +6,6 @@
 `Name:` Egor Briliov \
 `Has been born:` March 2004 \
 `Was started learn programming:` 13.05.2024 \
-`The principe of study:` The study itself \
-`Reason to study:` Attraction. Desire for a good life. Good income. Freedom.
 ### Additional information
 `✉️  You can contact me at:`  **[Telegram](https://t.me/briliov)**
 # Statistics of my developments
