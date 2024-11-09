@@ -5,7 +5,7 @@
 ###  Me
 `Name:` Egor Briliov \
 `Has been born:` March 2004 \
-`Was started learn programming:` 13.05.2024 
+`Was started learn programming:` 13.07.2024 
 ### Additional information
 `✉️  You can contact me at:`  **[Telegram](https://t.me/briliov)**
 # Statistics of my developments
