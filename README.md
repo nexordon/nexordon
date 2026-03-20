@@ -4,8 +4,8 @@
 `Name:` Egor Briliov \
 `Has been born:` March 2004 \
 `Was started learn programming:` 13.07.2024 \
-`Student Yandex.Practicum:` [Python Backend-Developer](https://practicum.yandex.ru/backend-developer/?from=catalog) \
-`✉️  You can contact me at:`  **[Telegram](https://t.me/briliov)**
+`Student Yandex.Practicum:`  [Python Backend-Developer](https://practicum.yandex.ru/backend-developer/?from=catalog) \
+`✉️  You can contact me at:`  [Telegram](https://t.me/briliov)
 # Statistics of my developments
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
