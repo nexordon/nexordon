@@ -1,12 +1,10 @@
 
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is [Egor](https://egorbriliov.github.io/) !
 ## About me
-###  Me
 `Name:` Egor Briliov \
 `Has been born:` March 2004 \
 `Was started learn programming:` 13.07.2024 \
 `Student Yandex.Practicum:` [Python Backend-Developer](https://practicum.yandex.ru/backend-developer/?from=catalog)
-### Additional information
 `✉️  You can contact me at:`  **[Telegram](https://t.me/briliov)**
 # Statistics of my developments
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
