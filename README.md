@@ -42,7 +42,7 @@
 ![Top stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorbriliov&theme=dark)
 ![Commits info](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorbriliov&theme=dark&utcOffset=8)
 
-#### Educational platforms & Roadmaps
+<!-- #### Educational platforms & Roadmaps
 
 [![roadmap.sh](https://roadmap.sh/card/wide/669e52f49a21cb3c68b6cb08?variant=dark&roadmaps=)](https://roadmap.sh)
-![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large)
+![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large) -->
