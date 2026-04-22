@@ -49,3 +49,5 @@
 ### Socials
 
 ![Telegram](https://img.shields.io/badge/Telegram-black.svg?style=for-the-badge&logo=telegram&logoColo&link=https%3A%2F%2Ft.me%2Febriliov)
+
+![Static Badge](https://img.shields.io/badge/Telegram?style=social&logo=telgram&color=black&link=https%3A%2F%2Ft.me%2Febriliov)
