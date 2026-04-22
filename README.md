@@ -48,4 +48,4 @@
 
 ### Socials
 
-![Telegram](https://img.shields.io/badge/Telegram-black.svg?style=for-the-badge&logo=telegram&logoColo?link=https://t.me/ebriliov)
+![Telegram](https://img.shields.io/badge/Telegram-black.svg?style=for-the-badge&logo=telegram&logoColo&link=https%3A%2F%2Ft.me%2Febriliov)
