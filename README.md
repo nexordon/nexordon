@@ -1,32 +1,51 @@
+## Hi there, my name is [Egor](https://github.io) ✦
 
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is [Egor](https://egorbriliov.github.io/) !
-## About me
-`Name:` Egor Briliov \
-`Has been born:` March 2004 \
-`Was started learn programming:` 13.07.2024 \
-`Student Yandex.Practicum:`  [Python Backend-Developer](https://practicum.yandex.ru/backend-developer/?from=catalog) \
-`✉️  You can contact me at:`  [Telegram](https://t.me/briliov)
-# Statistics of my developments
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorbriliov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorbriliov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorbriliov&theme=dark&utcOffset=8)
-# Learning
-#### Badges of websites, where I'm learning programming. There provides my skills of coding.
-### [RoadMap](https://roadmap.sh/)
-[![roadmap.sh](https://roadmap.sh/card/tall/669e52f49a21cb3c68b6cb08?variant=dark)](https://roadmap.sh)
-### [CodeWars](https://www.codewars.com/)
+### ✦ ABOUT ME
+
+**NAME:** Egor Briliov \
+**STATUS:** Python Developer (Extended) @[Yandex.Practicum](https://practicum.yandex.ru) \
+**FOCUS:** Backend Architecture & Creative Logic \
+**LEARNING SINCE:** 13.07.2024
+
+---
+
+### ✦ TECH STACK
+
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=9370DB)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=D2691E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-black.svg?style=for-the-badge&logo=gnometerminal&logoColor=1E90FF)
+![Django](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=3CB371)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=FF7F50)
+![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=for-the-badge&logo=sqlite&logoColor=87CEFA)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=orange)
+![Flake8](https://img.shields.io/badge/Flake8-black.svg?style=for-the-badge&logo=python&logoColor=blue)
+![bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=9370DB)
+![pytest](https://img.shields.io/badge/pytest-black.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![pythonanywhere](https://img.shields.io/badge/pythonanywhere-black.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-black.svg?style=for-the-badge&logo=labex&logoColor=6A5ACD)
+![SQL](https://img.shields.io/badge/SQL-black.svg?style=for-the-badge&logo=sqlite&logoColor=87CEEB)
+
+
+
+---
+
+### ✦ PROGRESS & SKILLS
+
+#### Progress
+
+![Commits card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
+![Top laguage by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
+![Top laguage by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorbriliov&theme=dark)
+![Top stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorbriliov&theme=dark)
+![Commits info](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorbriliov&theme=dark&utcOffset=8)
+
+#### Educational platforms & Roadmaps
+
+[![roadmap.sh](https://roadmap.sh/card/wide/669e52f49a21cb3c68b6cb08?variant=dark&roadmaps=)](https://roadmap.sh)
 ![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large)
-### [LeetCode](https://leetcode.com/)
-![LeetCode Stats](https://leetcode.card.workers.dev/briliov?theme=auto&font=baloo&extension=null)/
-
-### Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/briliov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/egorbriliov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-
- 
+![Telegram](https://img.shields.io/badge/Telegram-black.svg?style=for-the-badge&logo=telegram&logoColo?link=https://t.me/ebriliov)
