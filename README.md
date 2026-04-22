@@ -45,9 +45,3 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/669e52f49a21cb3c68b6cb08?variant=dark&roadmaps=)](https://roadmap.sh)
 ![CodeWars Stats](https://www.codewars.com/users/briliov/badges/large)
-
-### Socials
-
-![Telegram](https://img.shields.io/badge/Telegram-black.svg?style=for-the-badge&logo=telegram&logoColo&link=https%3A%2F%2Ft.me%2Febriliov)
-
-![Static Badge](https://img.shields.io/badge/Telegram?style=social&logo=telgram&color=black&link=https%3A%2F%2Ft.me%2Febriliov)
