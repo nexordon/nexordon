@@ -34,7 +34,6 @@
 
 ### ✦ PROGRESS & SKILLS
 
-#### Progress
 
 ![Commits card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
 ![Top laguage by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
