@@ -3,7 +3,7 @@
 ### ✦ ABOUT ME
 
 **NAME:** Egor Briliov \
-**STATUS:** Python Developer (Extended) @[Yandex.Practicum](https://practicum.yandex.ru) \
+**STATUS:** Python Developer (Extended) [@Yandex.Practicum](https://practicum.yandex.ru) \
 **FOCUS:** Backend Architecture & Creative Logic \
 **LEARNING SINCE:** 13.07.2024
 
