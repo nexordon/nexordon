@@ -5,7 +5,10 @@
 ### ✦ ABOUT ME
 
 **NAME:** Egor Briliov \
-**STATUS:** Course Python Developer (Extended) [@Yandex.Practicum](https://practicum.yandex.ru) | Learning Algoritms at [Yandex Edcuation](https://education.yandex.ru/handbook/algorithms) & practicing on [CodeRun](https://coderun.yandex.ru)\
+**STATUS:** \
+\- Python Developer Course (Extended) at [Yandex Practicum](https://practicum.yandex.ru) \
+\- Learning Algorithms at [Yandex Education](https://yandex.ru) \
+\- Practicing on [CodeRun](https://yandex.ru) \
 **FOCUS:** Backend Architecture & Creative Logic \
 **LEARNING SINCE:** 13.07.2024
 
