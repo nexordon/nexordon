@@ -46,11 +46,11 @@
 
 ### ✦ PROGRESS & SKILLS
 
-![Commits card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorbriliov&theme=dark)
-![Top laguage by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorbriliov&theme=dark)
-![Top laguage by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorbriliov&theme=dark)
-![Top stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorbriliov&theme=dark)
-![Commits info](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorbriliov&theme=dark&utcOffset=8)
+![Commits card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexordon&theme=dark)
+![Top laguage by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexordon&theme=dark)
+![Top laguage by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexordon&theme=dark)
+![Top stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexordon&theme=dark)
+![Commits info](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexordon&theme=dark&utcOffset=8)
 
 <!-- #### Educational platforms & Roadmaps
 
