@@ -10,7 +10,6 @@
 \- Learning Algorithms at [Yandex Education](https://yandex.ru) \
 \- Practicing on [CodeRun](https://yandex.ru) \
 **FOCUS:** Backend Architecture & Creative Logic \
-**LEARNING SINCE:** 13.07.2024
 
 ---
 
