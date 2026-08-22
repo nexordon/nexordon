@@ -9,7 +9,7 @@
 \- Python Developer Course (Extended) at [Yandex Practicum](https://practicum.yandex.ru) \
 \- Learning Algorithms at [Yandex Education](https://yandex.ru) \
 \- Practicing on [CodeRun](https://yandex.ru) \
-**FOCUS:** Backend Architecture & Creative Logic \
+**FOCUS:** Backend Architecture & Creative Logic 
 
 ---
 
