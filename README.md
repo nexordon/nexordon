@@ -4,7 +4,7 @@
 
 ### ✦ ABOUT ME
 
-**NAME:** Egor Briliov \
+**NAME:** Egor \
 **STATUS:** \
 \- Python Developer Course (Extended) at [Yandex Practicum](https://practicum.yandex.ru) \
 \- Learning Algorithms at [Yandex Education](https://yandex.ru) \
